@@ -17,11 +17,6 @@
 	</header>
 	<div id="content">
 			<article id="documento" class="modulo">
-				<h1 style="text-align: center;padding: 0 1em 0em 1em">Despacho n.º 143/2016 (28/09/2016)</h1>
-				<iframe src="https://spmssigef.github.io/pages/pdf/Despacho_143.pdf" style="width:100%; height:700px" frameborder="1"></iframe>
-				<div id="docButtons">
-				  <button title="Transferir documento" id="btnPDF" type="button" alt="btnPDF" onclick="DownloadPdf()"><i class="fa fa-file-pdf-o fa-fw"></i></button>
-				</div>
 				<noscript>
 					<h1>Ops! :(</h1>
 					<p>
@@ -47,13 +42,29 @@
 	<script src="../js/libs/accordion-menu.js"></script>
 	<script src="../js/highslide-with-gallery.js"></script>
 	<script src="../js/jquery.zoom.js" async></script>
+
 	<script>
 		$(function(){
+			// convert .md file to html and place it into the html element sent (argument)
+		 	convertMdToHtml("documento");
 			loadFooter();
+			loadDocButtons();
 		});
-		function DownloadPdf(){
-			window.open("https://spmssigef.github.io/pages/pdf/Despacho_143.pdf","_blank")
-		}
+
+		$(window).scroll(function() {
+		  if ($(this).scrollTop() > 2000) {
+		    //add effect / animation
+		    $('.showWithScroll').stop(true).animate({
+		       opacity: 1
+		    }, 500);
+		  } else {
+		    if ($(this).scrollTop() < 1000) {
+		      $('.showWithScroll').stop(true).animate({
+						 opacity: 0
+		      }, 500);
+		    }
+		  }
+		});
 	</script>
 </body>
 
