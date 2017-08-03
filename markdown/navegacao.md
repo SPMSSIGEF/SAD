@@ -39,6 +39,7 @@ Os campos obrigatórios a preencher no formulário de novo registo de nova despe
 + Capacidade de financiamento;
 + Entidade com impacto no orçamento;
 + Co-financiamento;
+
 O campo Entidade é preenchido automaticamente.
 À exceção dos campos referentes ao “Nº de entrada no MS”, “Descrição de despesa”, “Valor” e “Entidade com impacto no orçamento”, o preenchimento dos restantes campos é feito ao clicar no botão ![logo_2](https://spmssigef.github.io/pages/img/logos/menu2.jpg) para apresentar a lista de opções a escolher. O campo “Nº de entrada no MS” é preenchido automaticamente após a despesa ser registada, os campos “Descrição da despesa” e “Valor” são preenchidos de forma livre.
 O campo Objetivo de Despesa depende da Classificação Económica escolhida anteriormente. A Tabela 1 mostra quais os objetivos de despesa disponíveis para cada classificação económica.
@@ -141,3 +142,14 @@ Caso o utilizador pretenda sair sem fazer alterações, basta clicar no botão 5
 Após a despesa ser submetida, é possível encontrar uma tabela com o histórico de validações e observações do validador e aprovador, caso existam, como pode ser observado na Figura 16.
 
 <div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img16.jpg" /></div>
+
+<a name="menulistagem">&nbsp;</a>
+
+## 4.3 Listagem
+
+A página “Listagem” contém todos os registos de despesa e o estado atual da “Situação”. Nesta página, é possível encontrar o histórico dos registos, exportar para Excel e desenvolver algumas ações, tais como gráficos dos dados, modificação da listagem, aplicação de filtros, entre outros, como pode ser observado na Figura 17.
+
+<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img17.jpg" /></div>
+
+É utilizado um código de cores para identificar, em tempo real, o estado final do registo de nova despesa. Assim, é utilizada a cor verde ![logo_11](https://spmssigef.github.io/pages/img/logos/menu11.jpg) para registos classificados como “Visado” e “Dispensa de visto”; a cor amarela ![logo_12](https://spmssigef.github.io/pages/img/logos/menu12.jpg) para registos classificados como “Aguarda”; a cor vermelha ![logo_13](https://spmssigef.github.io/pages/img/logos/menu13.jpg) para classificados como “Não Visado”.
+Na Tabela 3, encontram-se os diferentes estados que uma despesa pode ter, bem como o símbolo que o caracteriza.
