@@ -148,7 +148,7 @@ img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
    ========================================================================== */
 
 figure { margin: 0; }
-p.imagem { margin: auto; padding-top: 20px}
+p.imagem { margin: auto; padding-top: 20px; float: center}
 
 /* =============================================================================
    Forms
@@ -371,6 +371,7 @@ h5{
 .imagem {
  outline: none;
  text-decoration: none;
+ float: center;
 }
 
 

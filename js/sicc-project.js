@@ -182,6 +182,7 @@ function loadCommitHistory() {
 /*
 TOC - Builds the table of contents after the conversion of markdown to HTML
 */
+/*
 function toc(){
 
   var ToC =
@@ -225,7 +226,7 @@ function toc(){
     $(".dropdown-content").prepend(ToC);
 
 }
-
+*/
 
 /* toc dropdown:*/
 /* When the user clicks on the button,

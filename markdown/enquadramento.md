@@ -1,5 +1,3 @@
-# ENQUADRAMENTO
-
 
 <a name="enquadramento"></a>
 
