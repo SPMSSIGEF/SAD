@@ -118,3 +118,26 @@ A Figura 12 representa a mensagem de sucesso que é apresentada no canto superio
 Caso a despesa seja só gravada, aparece a mensagem de informação representada na Figura 13, relembrando a entidade que a despesa ainda não foi submetida.
 
 <div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img13.png" /></div>
+
+<a name="menuasminhastarefas">&nbsp;</a>
+
+## 4.3 As Minhas Tarefas
+
+A página “As Minhas Tarefas” está representada na Figura 14.
+Nesta página, a entidade em questão pode visualizar quais as despesas que estão apenas inscritas, isto é, aquelas que ainda não foram submetidas ou aquelas que o validador mandou para rever, ou seja, aquelas despesas que ainda estão sujeitas a alterações.
+
+<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img14.jpg" /></div>
+
+Nesta listagem, é utilizado um símbolo para identificar, em tempo real, o estado do registo da despesa. O símbolo de cor cinzenta, ![logo_8](https://spmssigef.github.io/pages/img/logos/menu8.jpg), simboliza os registos que estão com a situação “Rever”, por ordem do Ministério da Saúde; já o hífen, ![logo_9](https://spmssigef.github.io/pages/img/logos/menu9.jpg), caracteriza os registos que estão apenas inseridos, que ainda não foram submetidos.
+Caso a despesa ainda esteja como inscrita, carregando no símbolo caracterizado por um lápis, ![logo_10](https://spmssigef.github.io/pages/img/logos/menu10.jpg), é aberto o formulário com o ambiente que pode ser observado na Figura 15.
+
+<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img15.png" /></div>
+
+Nesta página, além de poder fazer as alterações que pretender, a entidade tem várias opções. Se pretender enviar a despesa para o Ministério da Saúde deve clicar no botão indicado pelo ponto 1 que faz com que a despesa seja submetida e lhe fique atribuída a situação “Aguarda”.
+Se a entidade ainda não pretender submeter a informação, deverá clicar no botão assinalado pelo ponto 2, sendo este o botão “Gravar”, que faz com que as alterações fiquem apenas gravadas.
+A entidade pode ainda apagar a despesa ao clicar no botão “apagar”, sinalizado pelo ponto 3. É importante não esquecer que a entidade apenas pode apagar uma despesa se está se encontrar inscrita, se a despesa estiver submetida, a entidade não a pode alterar sem ordem superior.
+ Ao clicar no botão “Criar nova despesa”, é aberto o formulário para registo de nova despesa, anteriormente descrito na Figura 7.
+Caso o utilizador pretenda sair sem fazer alterações, basta clicar no botão 5, “Cancelar”.
+Após a despesa ser submetida, é possível encontrar uma tabela com o histórico de validações e observações do validador e aprovador, caso existam, como pode ser observado na Figura 16.
+
+<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img16.jpg" /></div>
