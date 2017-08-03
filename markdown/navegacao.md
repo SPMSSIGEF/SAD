@@ -3,7 +3,7 @@
 # Navegação
 
 A Plataforma de Aprovação de Despesa contém um menu de navegação que permite aceder às funcionalidades da plataforma, nomeadamente: novo registo de despesa e visualização de todos os registos efetuados, quer da instituição em questão quer das restantes instituições.
-O menu de navegação encontra-se sempre visível, estando disponibilizado lateralmente. Clique em ![logo_1](https://spmssigef.github.io/pages/img/logos/logo1.png) para retrair ou expandir o menu de navegação. Na Figura 7 podem ser vistas as várias opções de navegação na página.
+O menu de navegação encontra-se sempre visível, estando disponibilizado lateralmente. Clique em ![logo_1](https://spmssigef.github.io/pages/img/logos/menu1.jpg) para retrair ou expandir o menu de navegação. Na Figura 7 podem ser vistas as várias opções de navegação na página.
 
 <div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img7.jpg" /></div>
 
