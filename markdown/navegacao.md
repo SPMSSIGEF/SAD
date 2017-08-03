@@ -39,3 +39,64 @@ Os campos obrigatórios a preencher no formulário de novo registo de nova despe
 + Capacidade de financiamento;
 + Entidade com impacto no orçamento;
 + Co-financiamento;
+O campo Entidade é preenchido automaticamente.
+À exceção dos campos referentes ao “Nº de entrada no MS”, “Descrição de despesa”, “Valor” e “Entidade com impacto no orçamento”, o preenchimento dos restantes campos é feito ao clicar no botão ![logo_2](https://spmssigef.github.io/pages/img/logos/menu2.png) para apresentar a lista de opções a escolher. O campo “Nº de entrada no MS” é preenchido automaticamente após a despesa ser registada, os campos “Descrição da despesa” e “Valor” são preenchidos de forma livre.
+O campo Objetivo de Despesa depende da Classificação Económica escolhida anteriormente. A Tabela 1 mostra quais os objetivos de despesa disponíveis para cada classificação económica.
+
+| *Classificação Económica* | *Objetivo de Despesa*|
+| ------------- |:-------------:|
+| Despesas com pessoal |Recrutamento de pessoal |
+||Remunerações, subsídios, suplementos |
+||Outros |
+|&nbsp;|&nbsp;|
+|Aquisição de Bens e Serviços| Alteração de preços  |
+||Alterações a contratos já existentes |
+||Atualização de tecnologias e sistemas de informação |
+||Medicamento - Alteração de preços |
+||Medicamento - Novos medicamentos |
+||Medicamento - Mudança de fornecedor |
+||Medicamento - Aumento de quantidade |
+||Novas tecnologias e sistemas de informação |
+||Novo contrato de fornecimento de serviços |
+||Novos dispositivos médicos |
+||Alteração de dispositivos médicos |
+||Outros bens de consumo |
+|&nbsp;|&nbsp;|
+|Aquisição de bens de capital |Construção infraestrutura |
+||Novo equipamento |
+||Reabilitação infraestrutura |
+||Substituição equipamento |
+||Aquisição de equipamento informático |
+|&nbsp;|&nbsp;|
+|Juros e outros encargos |Alteração de preços |
+|Transferências de capital |Alterações a contratos já existentes |
+|Outras despesas correntes |Construção infraestrutura |
+|Transferências correntes |Novo equipamento |
+||Novo contrato de fornecimento de serviços |
+||Novos medicamentos |
+||Outros |
+||Reabilitação infraestrutura |
+||Recrutamento de pessoal |
+||Remunerações, subsídios, suplementos |
+||Substituição equipamento |
+
+Na Tabela 2, podem ser observadas as opções que podem ser selecionadas para os restantes campos presentes no registo de uma nova despesa.
+
+| *Campos Obrigatórios* | *Opções*|
+| ------------- |:-------------:|
+| Responsabilidade |Tutela |
+||Conselho Diretivo |
+|&nbsp;|&nbsp;|
+|Grau de Urgência | Muito urgente |
+||Urgente |
+||Conveniente nos próximos 2 anos |
+|&nbsp;|&nbsp;|
+|Tipo de Despesa |Pontual - apenas a indicada |
+||Contínua -  tem impacto anual |
+|&nbsp;|&nbsp;|
+|Capacidade de Financiamento |Tem fundos próprios para cobrir a despesa |
+||Tem fundos próprios para cobrir apenas parte da despesa (indicar qual) |
+||Não tem fundos para cobrir a despesa |
+|&nbsp;|&nbsp;|
+|Co financiamento |Com financiamento da UE |
+||Impossível financiamento da UE |
