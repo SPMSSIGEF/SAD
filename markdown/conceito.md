@@ -18,7 +18,7 @@ Esta fase é considerada como um estado intermédio, isto é, a despesa não pod
 O validador pode visar ou não visar a despesa ou remeter novamente à entidade para revisão. No caso de o validador visar a despesa, esta fica na situação “Visar”, caso contrário, fica na situação “Não Visar”.  
 Na Figura 3 pode ser observado o histórico com as validações que a despesa em questão já sofreu.
 
-<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img3.png" /></div>
+<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img3.jpg" /></div>
 
 Se na fase de validação, o registo de despesa não esteja em conformidade, poderá ser solicitado a sua revisão com a identificação do estado de “Rever”, sendo que, neste caso, a despesa fica novamente como “Inscrita”, uma vez que a entidade necessita de fazer alterações na informação que foi preenchida.  
 Após a despesa ter sido visada pelo validador, esta entra da fase de “Aprovação”, fase esta que está representada na Figura 4, sendo que nesta fase é o aprovador que toma a decisão acerca da despesa.
