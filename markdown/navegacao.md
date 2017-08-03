@@ -100,3 +100,21 @@ Na Tabela 2, podem ser observadas as opções que podem ser selecionadas para os
 |&nbsp;|&nbsp;|
 |Co financiamento |Com financiamento da UE |
 ||Impossível financiamento da UE |
+
+O campo de “*Entidade com impacto no orçamento*” permite a seleção de várias entidades, devendo ser utilizado o botão ![logo_3](https://spmssigef.github.io/pages/img/logos/menu3.jpg) para selecionar uma entidade ou o botão de ![logo_4](https://spmssigef.github.io/pages/img/logos/menu4.jpg) para selecionar todas as entidades. De forma idêntica, os botões ![logo_5](https://spmssigef.github.io/pages/img/logos/menu5.jpg) e ![logo_6](https://spmssigef.github.io/pages/img/logos/menu6.jpg) permitem retirar uma ou todas as entidades selecionadas, respetivamente.
+A Figura 10 indica a mensagem que aparece ao utilizador quando este insere o valor da despesa.
+
+<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img10.png" /></div>
+
+Caso os Serviços Partilhados do Ministério da Saúde sejam mandatários do novo registo de despesa, deverá ser confirmado essa opção no botão de seleção ![logo_7](https://spmssigef.github.io/pages/img/logos/menu7.jpg) , como mostra a Figura 11:
+
+<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img11.png" /></div>
+
+Se o utilizador pretender cancelar o registo da nova despesa deve clicar no botão “Cancelar”, indicado na Figura 9 como o ponto 1. Se o utilizador pretender apenas guardar a informação sem submeter, podendo fazer novamente alterações, deverá clicar no botão “Gravar”, indicado como ponto 2 na Figura 9. Quando o utilizador pretender submeter a informação do formulário deverá clicar no botão “Submeter”, sendo que este está identificado como o ponto 3 da Figura 9.
+A Figura 12 representa a mensagem de sucesso que é apresentada no canto superior direito do ecrã após criação do registo de despesa, com indicação do número de entrada no Ministério de Saúde. A cada número de entrada será atribuído um par de caracteres, CD ou MS, que representam, respetivamente, registos de despesa cuja competência é do dirigente da entidade e registos da competência da tutela.
+
+<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img12.jpg" /></div>
+
+Caso a despesa seja só gravada, aparece a mensagem de informação representada na Figura 13, relembrando a entidade que a despesa ainda não foi submetida.
+
+<div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img13.png" /></div>
