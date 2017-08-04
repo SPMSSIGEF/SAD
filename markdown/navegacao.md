@@ -47,7 +47,7 @@ O campo Objetivo de Despesa depende da Classificação Económica escolhida ante
 &nbsp;
 
 | *Classificação Económica* | *Objetivo de Despesa*|
-| ------------- |:-------------:|
+| ------------- |-------------|
 | Despesas com pessoal |Recrutamento de pessoal |
 ||Remunerações, subsídios, suplementos |
 ||Outros |
@@ -88,7 +88,7 @@ Na Tabela 2, podem ser observadas as opções que podem ser selecionadas para os
 
 
 | *Campos Obrigatórios* | *Opções*|
-| ------------- |:-------------:|
+| ------------- |-------------|
 | Responsabilidade |Tutela |
 ||Conselho Diretivo |
 |&nbsp;|&nbsp;|
