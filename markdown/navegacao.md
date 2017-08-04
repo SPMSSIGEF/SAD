@@ -45,6 +45,7 @@ O campo Entidade é preenchido automaticamente.
 À exceção dos campos referentes ao “Nº de entrada no MS”, “Descrição de despesa”, “Valor” e “Entidade com impacto no orçamento”, o preenchimento dos restantes campos é feito ao clicar no botão ![logo_2](https://spmssigef.github.io/pages/img/logos/menu2.jpg) para apresentar a lista de opções a escolher. O campo “Nº de entrada no MS” é preenchido automaticamente após a despesa ser registada, os campos “Descrição da despesa” e “Valor” são preenchidos de forma livre.
 O campo Objetivo de Despesa depende da Classificação Económica escolhida anteriormente. A Tabela 1 mostra quais os objetivos de despesa disponíveis para cada classificação económica.
 &nbsp;
+
 | *Classificação Económica* | *Objetivo de Despesa*|
 | ------------- |:-------------:|
 | Despesas com pessoal |Recrutamento de pessoal |
@@ -82,7 +83,9 @@ O campo Objetivo de Despesa depende da Classificação Económica escolhida ante
 ||Remunerações, subsídios, suplementos |
 ||Substituição equipamento |
 &nbsp;
+
 Na Tabela 2, podem ser observadas as opções que podem ser selecionadas para os restantes campos presentes no registo de uma nova despesa.
+
 &nbsp;
 | *Campos Obrigatórios* | *Opções*|
 | ------------- |:-------------:|
@@ -103,6 +106,7 @@ Na Tabela 2, podem ser observadas as opções que podem ser selecionadas para os
 |Co financiamento |Com financiamento da UE |
 ||Impossível financiamento da UE |
 &nbsp;
+
 O campo de “*Entidade com impacto no orçamento*” permite a seleção de várias entidades, devendo ser utilizado o botão ![logo_3](https://spmssigef.github.io/pages/img/logos/menu3.jpg) para selecionar uma entidade ou o botão de ![logo_4](https://spmssigef.github.io/pages/img/logos/menu4.jpg) para selecionar todas as entidades. De forma idêntica, os botões ![logo_5](https://spmssigef.github.io/pages/img/logos/menu5.jpg) e ![logo_6](https://spmssigef.github.io/pages/img/logos/menu6.jpg) permitem retirar uma ou todas as entidades selecionadas, respetivamente.
 A Figura 10 indica a mensagem que aparece ao utilizador quando este insere o valor da despesa.
 &nbsp;
