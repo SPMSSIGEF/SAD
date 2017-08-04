@@ -82,11 +82,11 @@ O campo Objetivo de Despesa depende da Classificação Económica escolhida ante
 ||Recrutamento de pessoal |
 ||Remunerações, subsídios, suplementos |
 ||Substituição equipamento |
-&nbsp;
+
 
 Na Tabela 2, podem ser observadas as opções que podem ser selecionadas para os restantes campos presentes no registo de uma nova despesa.
 
-&nbsp;
+
 | *Campos Obrigatórios* | *Opções*|
 | ------------- |:-------------:|
 | Responsabilidade |Tutela |
