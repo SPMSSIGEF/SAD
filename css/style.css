@@ -468,7 +468,7 @@ h4:target {
     max-height: 100vh; /*is equal to the height of the browser window, regardless of where the element is situated in the DOM tree*/
     padding-top:0px;
     text-decoration: none;
-    background: url(../img/logos/imagem_background.png) no-repeat fixed;
+    background: url(../img/logos/SIGEF_Menu.jpg) no-repeat fixed;
     z-index: 101;
     text-align: start;
 }
