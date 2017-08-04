@@ -59,7 +59,7 @@
 				$(
 					'<div id="titleBar">' +
 						'<a href="#sidebar" class="toggle"></a>' +
-						'<span class="title">SICC - Documentação</span>' +
+						'<span class="title">Plataforma de Aprovação de Despesa - Documentação</span>' +
 					'</div>'
 				)
 					.appendTo($body);
