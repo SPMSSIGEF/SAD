@@ -74,7 +74,7 @@ p, li, div{
 
 a { color: blue; }
 a:visited { color: #3d596d; }
-a:hover { color: #40A293; }
+a:hover { color: #5DA4C4; }
 a:focus { outline: thin dotted; }
 /* Improve readability when focused and hovered in all browsers: h5bp.com/h */
 a:hover, a:active { outline: 0; }
@@ -294,7 +294,7 @@ h1{
   font-weight: bold;
   line-height: 1em;
   text-align:left;
-  color: #40A293;
+  color: #5DA4C4;
 }
 
 h1 a span:nth-child(2)::before {
@@ -310,7 +310,7 @@ h2{
   font-weight: bold;
   line-height: 1em;
   text-align:left;
-  color: #40A293;
+  color: #5DA4C4;
 }
 
 h2 a span:nth-child(2)::before {
@@ -326,7 +326,7 @@ h3{
   font-weight: bold;
   line-height: 1em;
   text-align:left;
-  color: #40A293;
+  color: #5DA4C4;
 }
 
 h4{
@@ -338,7 +338,7 @@ h4{
   font-weight: bold;
   line-height: 1em;
   text-align:left;
-  color: #40A293;
+  color: #5DA4C4;
 }
 
 h5{
@@ -350,7 +350,7 @@ h5{
   font-weight: bold;
   line-height: 1em;
   text-align:left;
-  color: #40A293;
+  color: #5DA4C4;
 }
 /* ==|== primary styles =====================================================
     Imagens
@@ -508,7 +508,7 @@ h4:target {
   cursor: pointer;
 }
 #accordion .active > div{
-  color: #40A293;
+  color: #5DA4C4;
 }
 
 #accordion li > a {
@@ -527,7 +527,7 @@ h4:target {
 /* Add borders to the top LIs */
 #accordion li.top {
   border-top: 1px solid #aaa;
-  /*border-bottom: 1px solid #40A293;*/
+  /*border-bottom: 1px solid #5DA4C4;*/
 }
 
 #accordion li {
@@ -564,31 +564,31 @@ h4:target {
     -o-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-    color:#40A293;
+    color:#5DA4C4;
     font-weight: bold;
 }
 
 #accordion a.active s{
-  color:#40A293;
+  color:#5DA4C4;
   font-weight: bold;
 }
 
 /* hovers */
 #accordion a:hover, #accordion div:hover {
-  color: #40A293;
+  color: #5DA4C4;
   font-size: 1em;
   font-weight: bold;
 }
 
 /*#accordion li.top:hover {
-  color: #40A293;
+  color: #5DA4C4;
   font-size: 1em;
   font-weight: bold;
 }*/
 
 #accordion a > i:hover {
   font-size: 1.5em;
-  color:#40A293;
+  color:#5DA4C4;
 }
 
 
@@ -610,14 +610,14 @@ h4:target {
   padding: 0.1em 0.1em 0.1em 0.1em;
   margin: 0 0 0 0;
   border-width: 2px;
-  border-color: #40A293;
+  border-color: #5DA4C4;
   border-radius: 0.5em;
   text-align: center;
   display: block;
 }
 
 #docButtons button:hover {
-  background-color: #40A293;
+  background-color: #5DA4C4;
   width: 40px;
 }
 
@@ -791,7 +791,7 @@ footer img {
 	button,
 	.button {
 		cursor: pointer;
-		background-color: #40A293;
+		background-color: #5DA4C4;
 		border-radius: 0.4em;
 		text-align: center;
 		box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.15);
@@ -946,7 +946,7 @@ footer img {
 	}
 
 		#titleBar .title {
-      background-color: #40A293;
+      background-color: #5DA4C4;
 			display: block;
 			color: white;
 			line-height: 44px;
@@ -980,7 +980,7 @@ footer img {
         color: white;
         font-size: 1.5em;
         text-align: center;
-        background-color: #40A293;
+        background-color: #5DA4C4;
         border-color: white;
         border-style: solid;
         border-width: 2px;
