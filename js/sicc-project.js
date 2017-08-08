@@ -54,7 +54,7 @@ function loadFooter () {
 }
 
 //Adiciona botões ao doc e atribui-lhes o link
-function loadDocButtons () {
+/*function loadDocButtons () {
   $.get("doc_buttons.html", function (data) {
              $("#content").append(data);
              $("#btnEditarDoc").click(function(){
@@ -79,9 +79,38 @@ function loadDocButtons () {
                }
              });
          });
+}*/
+
+function loadDocButtons () {
+  $.get("doc_buttons.html", function (data) {
+             $("#content").append(data);
+             $("#btnEditarDoc").click(function(){
+               window.open("https://github.com/SPMSSIGEF/pages/tree/master/markdown"+doc_name+".md","_blank");
+             });
+             $("#btnPDF").click(function(){
+               window.open("https://spmssigef.github.io/pages/pdf/"+doc_name+".pdf","_blank");
+             });
+             //Mostra ou oculta o botão para voltar ao topo da página
+             $(window).scroll(function() {
+               if ($(this).scrollTop() > 2000) {
+                 //add effect / animation
+                 $('.showWithScroll').stop(true).animate({
+                    opacity: 1
+                 }, 500);
+               } else {
+                 if ($(this).scrollTop() < 1000) {
+                   $('.showWithScroll').stop(true).animate({
+                      opacity: 0
+                   }, 500);
+                 }
+               }
+             });
+         });
 }
+
+
 //TESTE: Adiciona botões ao doc e atribui-lhes o link
-function loadDocButtonsTest () {
+/*function loadDocButtonsTest () {
   $.get("doc_buttons_test.html", function (data) {
              $("#content").append(data);
              $("#btnEditarDoc").click(function(){
@@ -89,6 +118,35 @@ function loadDocButtonsTest () {
              });
              $("#btnPDF").click(function(){
                window.open("https://spmssicc.github.io/pages/pdf/"+doc_name+".pdf","_blank");
+             });
+
+              //Mostra ou oculta o botão para voltar ao topo da página
+              $(window).scroll(function() {
+                if ($(this).scrollTop() > 2000) {
+                  //add effect / animation
+                  $('.showWithScroll').stop(true).animate({
+                     opacity: 1
+                  }, 500);
+                } else {
+                  if ($(this).scrollTop() < 1000) {
+                    $('.showWithScroll').stop(true).animate({
+                       opacity: 0
+                    }, 500);
+                  }
+                }
+              });
+         });
+}
+*/
+
+function loadDocButtonsTest () {
+  $.get("doc_buttons_test.html", function (data) {
+             $("#content").append(data);
+             $("#btnEditarDoc").click(function(){
+               window.open("https://github.com/SPMSSIGEF/pages/tree/master/markdown"+doc_name+".md","_blank");
+             });
+             $("#btnPDF").click(function(){
+               window.open("https://spmssigef.github.io/pages/pdf/"+doc_name+".pdf","_blank");
              });
 
               //Mostra ou oculta o botão para voltar ao topo da página
