@@ -81,6 +81,7 @@ function loadFooter () {
          });
 }*/
 
+/*
 function loadDocButtons () {
   $.get("doc_buttons.html", function (data) {
              $("#content").append(data);
@@ -107,7 +108,7 @@ function loadDocButtons () {
              });
          });
 }
-
+*/
 
 //TESTE: Adiciona botões ao doc e atribui-lhes o link
 /*function loadDocButtonsTest () {
@@ -139,6 +140,7 @@ function loadDocButtons () {
 }
 */
 
+/*
 function loadDocButtonsTest () {
   $.get("doc_buttons_test.html", function (data) {
              $("#content").append(data);
@@ -166,7 +168,7 @@ function loadDocButtonsTest () {
               });
          });
 }
-
+*/
 // Preparar imagem para zoom ou para não zoom (mostra ou não mostra a lupa)
 function zommClickImagem() {
       var show = true;
