@@ -233,34 +233,33 @@ input:invalid, textarea:invalid { background-color: #f0dddd; }
 table {
   border-collapse: collapse;
   border-spacing: 5px;
-  margin-top: 1em;
+  margin-top: 0.5em;
   margin-bottom: 0.2em;
   margin-left:auto;
   margin-right:auto;
-  width: 65%;
+  width: 70%;
 }
 
 td {
-  vertical-align: top;
+  vertical-align: middle;
   text-align: center;
   padding: 0.3em 0.3em 0.3em 0.3em;
-  border: solid #3d596d 1.0px;
+  border: solid #3d596d 2.0px;
 }
 
 tr {
+  vertical-align: middle;
   text-align: center;
   padding: 0.3em 0.3em 0.3em 0.3em;
-  border: solid #3d596d 1.0px;
+  border: solid #3d596d 2.0px;
 }
 
 table th {
   font-weight: bold;
-  letter-spacing: 0.1em;
-  padding: 0.3em 0.3em 0.3em 0.3em;
+  padding: 10px;
   text-align: center;
   background:#3d596d;
   color:white;
-  height: 25px;
 }
 
 table thead tr th {
@@ -274,8 +273,7 @@ table thead tr {
 table tbody td {
   border-left: solid #3d596d 1px;
   border-right: solid #3d596d 1px;
-  padding: 0.3em 0.3em 0.3em 0.3em;
-  height: 25px;
+  padding: 10px;
 }
 
 
