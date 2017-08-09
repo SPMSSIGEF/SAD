@@ -39,12 +39,12 @@ Os campos obrigatórios a preencher no formulário de novo registo de nova despe
 + Capacidade de financiamento;
 + Entidade com impacto no orçamento;
 + Co-financiamento;
-&nbsp;
+
 
 O campo Entidade é preenchido automaticamente.
 À exceção dos campos referentes ao “Nº de entrada no MS”, “Descrição de despesa”, “Valor” e “Entidade com impacto no orçamento”, o preenchimento dos restantes campos é feito ao clicar no botão ![logo_2](https://spmssigef.github.io/pages/img/logos/menu2.jpg) para apresentar a lista de opções a escolher. O campo “Nº de entrada no MS” é preenchido automaticamente após a despesa ser registada, os campos “Descrição da despesa” e “Valor” são preenchidos de forma livre.
 O campo Objetivo de Despesa depende da Classificação Económica escolhida anteriormente. A Tabela 1 mostra quais os objetivos de despesa disponíveis para cada classificação económica.
-&nbsp;
+
 
 | *Classificação Económica* | *Objetivo de Despesa*|
 | ------------- |-------------|
