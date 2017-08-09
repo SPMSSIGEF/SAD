@@ -260,6 +260,7 @@ table th {
   text-align: center;
   background:#3d596d;
   color:white;
+  height: 25px;
 }
 
 table thead tr th {
@@ -274,6 +275,7 @@ table tbody td {
   border-left: solid #3d596d 1px;
   border-right: solid #3d596d 1px;
   padding: 0.3em 0.3em 0.3em 0.3em;
+  height: 25px;
 }
 
 
