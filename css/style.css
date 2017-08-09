@@ -233,8 +233,8 @@ input:invalid, textarea:invalid { background-color: #f0dddd; }
 table {
   border-collapse: collapse;
   border-spacing: 5px;
-  margin-top: 0.5em;
-  margin-bottom: 0.2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
   margin-left:auto;
   margin-right:auto;
   width: 70%;
