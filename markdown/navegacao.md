@@ -51,7 +51,6 @@ O campo Objetivo de Despesa depende da Classificação Económica escolhida ante
 | Despesas com pessoal |Recrutamento de pessoal |
 ||Remunerações, subsídios, suplementos |
 ||Outros |
-|&nbsp;|&nbsp;|
 |Aquisição de Bens e Serviços| Alteração de preços  |
 ||Alterações a contratos já existentes |
 ||Atualização de tecnologias e sistemas de informação |
@@ -64,13 +63,11 @@ O campo Objetivo de Despesa depende da Classificação Económica escolhida ante
 ||Novos dispositivos médicos |
 ||Alteração de dispositivos médicos |
 ||Outros bens de consumo |
-|&nbsp;|&nbsp;|
 |Aquisição de bens de capital |Construção infraestrutura |
 ||Novo equipamento |
 ||Reabilitação infraestrutura |
 ||Substituição equipamento |
 ||Aquisição de equipamento informático |
-|&nbsp;|&nbsp;|
 |Juros e outros encargos |Alteração de preços |
 |Transferências de capital |Alterações a contratos já existentes |
 |Outras despesas correntes |Construção infraestrutura |
@@ -91,18 +88,14 @@ Na Tabela 2, podem ser observadas as opções que podem ser selecionadas para os
 | ------------- |-------------|
 | Responsabilidade |Tutela |
 ||Conselho Diretivo |
-|&nbsp;|&nbsp;|
 |Grau de Urgência | Muito urgente |
 ||Urgente |
 ||Conveniente nos próximos 2 anos |
-|&nbsp;|&nbsp;|
 |Tipo de Despesa |Pontual - apenas a indicada |
 ||Contínua -  tem impacto anual |
-|&nbsp;|&nbsp;|
 |Capacidade de Financiamento |Tem fundos próprios para cobrir a despesa |
 ||Tem fundos próprios para cobrir apenas parte da despesa (indicar qual) |
 ||Não tem fundos para cobrir a despesa |
-|&nbsp;|&nbsp;|
 |Co financiamento |Com financiamento da UE |
 ||Impossível financiamento da UE |
 &nbsp;
