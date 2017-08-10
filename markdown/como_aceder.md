@@ -6,6 +6,6 @@ A página da Plataforma de Aprovação de Despesa pode ser acedida através do U
 Nesta página, que está ilustrada na Figura 6, deverá introduzir as credenciais de acesso remetidas individualmente e por e-mail. Em seguida clique em “Entrar”.
 &nbsp;
 <div style="text-align:center"><img src ="https://spmssigef.github.io/pages/img/logos/img6.png" width="350" /></div>
-<figcaption>Fig1. - A view of the pulpit rock in Norway.</figcaption>
+
 
 <a name="comoaceder"></a>
